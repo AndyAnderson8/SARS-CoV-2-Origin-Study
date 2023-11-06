@@ -1,7 +1,7 @@
 # SARS-CoV-2 Origin Study
 
 ## Description
-This bioinformatics project is focused on tracing the origins of SARS-CoV-2, the virus known for causing COVID-19, by comparing its genetic material with that of coronaviruses found in animals. We use a technique called the Levenshtein Distance algorithm to measure the number of differences between the amino acid sequences of two different virus genomes. This serves as a proxy for determining the minimum number of mutations that must have occurred within the viral RNA to transform a coronavirus common within other animals into SARS-CoV-2, and thus, the most likely original animal host.
+This bioinformatics project is focused on tracing the origins of SARS-CoV-2, the virus known for causing COVID-19, by comparing its genetic material with that of coronaviruses found in animals. We use a technique called the Levenshtein Distance algorithm to measure the number of differences between the amino acid sequences of two different viral genomes. This serves as a proxy for determining the minimum number of mutations that must have occurred within the viral RNA to transform a coronavirus common within other animals into SARS-CoV-2, and thus, the most likely original animal host.
 
 ## Results
 Our research suggests that pangolins or bats are the most likely sources of SARS-CoV-2, with slightly more evidence pointing towards the former. For a detailed exploration of our study, I have made the [full report](https://andylabs.org/static/media/SARS-CoV-2-Origin-Study.pdf) available on my site.
