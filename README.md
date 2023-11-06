@@ -19,7 +19,7 @@ Our research suggests that pangolins or bats are the most likely sources of SARS
 ## Repository Contents
 
 - `Main.py`: This script runs the core analysis. It aligns genetic sequences, calculates their differences, and produces visuals that help us understand the genetic relationship between SARS-CoV-2 and animal coronaviruses.
-- `FASTAs/`: This directory contains FASTA files, which are formatted sequences of RNA genomes from various animal coronaviruses. All FASTA files have been found and extracted from the National Center for Biotechnology Information (NCBI) database.
+- `FASTAs/`: This directory contains FASTA files, which are formatted sequences of RNA genomes from various animal coronaviruses. All FASTA files have been found and extracted from the [National Center for Biotechnology Information (NCBI) database](https://www.ncbi.nlm.nih.gov/nuccore).
 
 ## Installation and Setup
 1. **Download or clone the repository**: Clone or download this repository to your local machine to get started.
