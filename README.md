@@ -4,7 +4,7 @@
 Welcome to our bioinformatics repository, which is focused on tracing the origins of SARS-CoV-2 by comparing its genetic material with that of coronaviruses found in animals. We use a technique called the Levenshtein Distance algorithm to measure the differences between the genetic sequences.
 
 ## Results
-Our research suggests that pangolins or bats are the most likely sources of SARS-CoV-2, with slightly more evidence pointing towards the former. For a detailed exploration of our study, the full report is available [here](https://andylabs.org/static/media/SARS-CoV-2-Origin-Study.pdf).
+Our research suggests that pangolins or bats are the most likely sources of SARS-CoV-2, with slightly more evidence pointing towards the former. For a detailed exploration of our study, I have made the [full report](https://andylabs.org/static/media/SARS-CoV-2-Origin-Study.pdf) available on my site.
 
 ## Data Visualizations
 
